@@ -47,16 +47,14 @@ class VanshPahwa:
     ]
     
     currently_building = [
+        "data analysis pipelines"
         "AI agents & voice pipelines",
         "Browser automation tools",
         "n8n workflow automations",
         "IoT + sensor data systems"
     ]
     
-    fun_fact = """
-        Attended Convergence India Expo 33rd Ed.
-        Currently reading: Principles of Building AI Agents
-        Team Lead @ Hack4Impact 2024
+    
     """
     
     open_to = ["Internships 💼", "Collabs 🤝", "Data roles 📊"]
