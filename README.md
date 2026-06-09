@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-![banner](https://image.pollinations.ai/prompt/futuristic%20dark%20data%20engineering%20banner%20with%20glowing%20blue%20circuit%20lines%2C%20abstract%20neural%20network%2C%20python%20code%20streams%2C%20deep%20space%20background%2C%20cinematic%2C%20ultra%20wide%2C%20no%20text%2C%20professional%20tech%20aesthetic%2C%208k%2C%20highly%20detailed?width=1344&height=384&model=flux&nologo=true&seed=770421)
+![banner](https://github.com/Vanshpahwa007/Vanshpahwa007/blob/main/7028260d-bae4-440e-a4e5-452767008b9f.png)
 
 </div>
 
