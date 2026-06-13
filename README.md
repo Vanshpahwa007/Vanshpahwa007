@@ -138,7 +138,7 @@ class VanshPahwa:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vanshpahwa007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-unserori.vercel.app/?username=Vanshpahwa007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
