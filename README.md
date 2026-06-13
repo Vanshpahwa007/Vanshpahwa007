@@ -120,19 +120,11 @@ class VanshPahwa:
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vanshpahwa007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshpahwa007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Vanshpahwa007&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
-
-</div>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vanshpahwa007/Vanshpahwa007/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vanshpahwa007/Vanshpahwa007/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Vanshpahwa007/Vanshpahwa007/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🏆 GitHub Trophies
 
