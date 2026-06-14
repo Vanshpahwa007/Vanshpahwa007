@@ -16,7 +16,7 @@
   ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Data+Engineer+%7C+Builder+%7C+Problem+Solver;Python+%E2%9C%A6+SQL+%E2%9C%A6+FastAPI+%E2%9C%A6+AI;Turning+data+into+decisions+since+2023;CS+Undergrad+%40+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Data+Scientist+%7C+Builder+%7C+Problem+Solver;Python+%E2%9C%A6+SQL+%E2%9C%A6+FastAPI+%E2%9C%A6+AI;Turning+data+into+decisions+since+2023;CS+Undergrad+%40+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 ---
 
-<img align="right" alt="coding gif" width="380" src="https://image.pollinations.ai/prompt/isometric%203D%20illustration%20of%20a%20developer%20workspace%20with%20glowing%20monitors%20showing%20python%20code%20and%20data%20graphs%2C%20dark%20blue%20theme%2C%20futuristic%2C%20neon%20accents%2C%20clean%20minimal%20art%2C%20no%20text%2C%20digital%20art%2C%20highly%20detailed?width=768&height=768&model=flux&nologo=true&seed=420691" />
+<img align="right" alt="coding gif" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZidnFmdjRtbjBoNWx6OHRpMHdvemtkYTJnODBvOHI2aTdtNmFjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fIpnpuC4q4Tuy3tdG2/giphy.gif" />
 
 ## 🧬 `whoami`
 
@@ -41,6 +41,7 @@ class VanshPahwa:
     
     focus = [
         "Data Engineering",
+        "Data Science",
         "Data Analysis", 
         "Async Backend Dev",
         "AI-Powered Tools"
@@ -73,7 +74,7 @@ class VanshPahwa:
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 ### 🔧 Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
